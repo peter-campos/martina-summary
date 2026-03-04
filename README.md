@@ -40,16 +40,14 @@ Flutter and Dart were chosen to fit the client's budget and simplify long-term m
 ## 📥 Download & Try It
 
 ### Android
-[![Download APK](https://img.shields.io/badge/Download_APK_v1.1.5-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/peter-campos/martina-summary/releases/tag/v1.1.5)
+[![Request Access](https://img.shields.io/badge/Request_Access-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://appdistribution.firebase.dev/i/a6d5149c83671c3a)
 
-1. Download the APK from the link above
-2. On your Android device, enable **Install from unknown sources**
-3. Open the downloaded file and install
-
-**File verification:**
+Register your email via the link above to receive the APK download link directly to your inbox. Alternatively, download the APK directly from [GitHub Releases](https://github.com/peter-campos/martina-summary/releases/tag/v1.1.5) and verify the file integrity:
 ```
 SHA1: 4c23a772940fca8e82b285b240b91e982cfce3fb
 ```
+
+To install: enable **Install from unknown sources** on your Android device, then open the downloaded file.
 
 ### iOS
 [![Request iOS Access](https://img.shields.io/badge/Request_iOS_Access-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://appdistribution.firebase.dev/i/a6d5149c83671c3a)
