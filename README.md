@@ -50,9 +50,7 @@ SHA1: 4c23a772940fca8e82b285b240b91e982cfce3fb
 To install: enable **Install from unknown sources** on your Android device, then open the downloaded file.
 
 ### iOS
-[![Request iOS Access](https://img.shields.io/badge/Request_iOS_Access-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://appdistribution.firebase.dev/i/a6d5149c83671c3a)
-
-Register your email to receive access to the iOS build via Firebase App Distribution. Requests are reviewed and approved manually.
+To test the iOS build via TestFlight, send an email to [peter.campos.leon@gmail.com](mailto:peter.campos.leon@gmail.com) with the subject **"El Viaje de Martina - TestFlight Access"** and you will be added manually.
 
 ---
 
