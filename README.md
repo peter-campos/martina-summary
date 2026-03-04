@@ -56,7 +56,7 @@ To test the iOS build via TestFlight, send an email to [peter.campos.leon@gmail.
 
 ## 📸 Screenshots
 
-![1716511779580](https://github.com/user-attachments/assets/44fa9f22-c64e-4e71-af57-1d4403543e05)
+<img src="https://github.com/user-attachments/assets/44fa9f22-c64e-4e71-af57-1d4403543e05" width="300"/>
 
 ---
 
