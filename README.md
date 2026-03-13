@@ -57,6 +57,7 @@ To test the iOS build via TestFlight, send an email to [peter.campos.leon@gmail.
 ## 📸 Screenshots
 
 <img src="https://github.com/user-attachments/assets/44fa9f22-c64e-4e71-af57-1d4403543e05" width="300"/>
+[![El Viaje de Martina - Demo](https://img.youtube.com/vi/Fd_Ny3GoZ80/0.jpg)](https://www.youtube.com/shorts/Fd_Ny3GoZ80)
 
 ---
 
